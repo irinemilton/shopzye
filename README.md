@@ -1,6 +1,3 @@
-Absolutely, Irine. Here's a clean, professional, and copy-paste-ready README.md file based entirely on the content you provided:
-
-
 ---
 
 # 🔐 Django Custom Authentication API
